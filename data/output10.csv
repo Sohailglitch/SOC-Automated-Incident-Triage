@@ -1,0 +1,2763 @@
+Rule Description,Level,Analyst
+File modified.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_2
+Network traffic anomaly detected.,4,Analyst_1
+File modified.,5,Analyst_5
+File modified.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_5
+File modified.,2,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_1
+Log file rotated.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+File modified.,5,Analyst_4
+Network traffic anomaly detected.,5,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Network traffic anomaly detected.,1,Analyst_1
+Log file rotated.,1,Analyst_4
+Log file rotated.,4,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_2
+Log file rotated.,2,Analyst_2
+Log file rotated.,1,Analyst_1
+Network traffic anomaly detected.,5,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_4
+File modified.,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_3
+Network traffic anomaly detected.,1,Analyst_3
+Network traffic anomaly detected.,1,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_2
+Network traffic anomaly detected.,4,Analyst_3
+Log file rotated.,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_2
+Network traffic anomaly detected.,3,Analyst_5
+Network traffic anomaly detected.,4,Analyst_4
+Network traffic anomaly detected.,5,Analyst_4
+Log file rotated.,1,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_4
+Log file rotated.,3,Analyst_5
+Log file rotated.,4,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_2
+Network traffic anomaly detected.,1,Analyst_5
+Network traffic anomaly detected.,3,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Network traffic anomaly detected.,5,Analyst_4
+File modified.,3,Analyst_4
+Log file rotated.,4,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_5
+File modified.,5,Analyst_4
+Log file rotated.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_2
+File modified.,3,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_4
+Network traffic anomaly detected.,3,Analyst_1
+Network traffic anomaly detected.,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Network traffic anomaly detected.,1,Analyst_3
+Log file rotated.,3,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Log file rotated.,3,Analyst_5
+File modified.,5,Analyst_3
+File modified.,2,Analyst_1
+File modified.,4,Analyst_5
+File modified.,3,Analyst_1
+File modified.,1,Analyst_1
+Network traffic anomaly detected.,3,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_4
+Network traffic anomaly detected.,4,Analyst_1
+File modified.,5,Analyst_3
+Network traffic anomaly detected.,1,Analyst_2
+File modified.,4,Analyst_5
+File modified.,2,Analyst_1
+Network traffic anomaly detected.,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Log file rotated.,1,Analyst_1
+File modified.,4,Analyst_2
+Network traffic anomaly detected.,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+File modified.,1,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Log file rotated.,1,Analyst_2
+Network traffic anomaly detected.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_1
+Log file rotated.,1,Analyst_2
+Network traffic anomaly detected.,1,Analyst_1
+Network traffic anomaly detected.,4,Analyst_3
+Network traffic anomaly detected.,4,Analyst_4
+Log file rotated.,3,Analyst_5
+Log file rotated.,4,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_2
+Network traffic anomaly detected.,3,Analyst_5
+Log file rotated.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+File modified.,2,Analyst_5
+File modified.,5,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_1
+Log file rotated.,3,Analyst_3
+Log file rotated.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+File modified.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+File modified.,1,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_3
+Log file rotated.,4,Analyst_2
+Unauthorized access attempt detected.,3,Analyst_5
+File modified.,4,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_3
+Network traffic anomaly detected.,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_5
+Network traffic anomaly detected.,3,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Log file rotated.,2,Analyst_3
+Network traffic anomaly detected.,4,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Network traffic anomaly detected.,2,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_1
+File modified.,4,Analyst_1
+Log file rotated.,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_1
+Log file rotated.,1,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_5
+File modified.,3,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_1
+Network traffic anomaly detected.,2,Analyst_3
+Log file rotated.,1,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_1
+Log file rotated.,3,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_3
+Log file rotated.,1,Analyst_5
+Log file rotated.,4,Analyst_4
+File modified.,3,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_1
+File modified.,2,Analyst_2
+Network traffic anomaly detected.,5,Analyst_4
+File modified.,3,Analyst_2
+File modified.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Log file rotated.,5,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_2
+Log file rotated.,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Log file rotated.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_5
+Log file rotated.,2,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_2
+Log file rotated.,4,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_3
+File modified.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+File modified.,4,Analyst_1
+File modified.,3,Analyst_1
+File modified.,1,Analyst_4
+Network traffic anomaly detected.,2,Analyst_1
+File modified.,1,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_5
+Log file rotated.,5,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_2
+Network traffic anomaly detected.,5,Analyst_4
+Network traffic anomaly detected.,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_3
+Log file rotated.,3,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_1
+Network traffic anomaly detected.,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Log file rotated.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Network traffic anomaly detected.,2,Analyst_1
+Log file rotated.,2,Analyst_3
+Network traffic anomaly detected.,4,Analyst_1
+File modified.,4,Analyst_4
+File modified.,1,Analyst_2
+Network traffic anomaly detected.,4,Analyst_4
+File modified.,4,Analyst_4
+Network traffic anomaly detected.,4,Analyst_2
+Log file rotated.,5,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_3
+File modified.,3,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+File modified.,1,Analyst_1
+Log file rotated.,1,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_2
+Unauthorized access attempt detected.,3,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_5
+Network traffic anomaly detected.,4,Analyst_4
+Log file rotated.,4,Analyst_4
+Network traffic anomaly detected.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Log file rotated.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_2
+Log file rotated.,5,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Network traffic anomaly detected.,1,Analyst_1
+Network traffic anomaly detected.,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+Network traffic anomaly detected.,2,Analyst_5
+Log file rotated.,3,Analyst_2
+Network traffic anomaly detected.,1,Analyst_2
+File modified.,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Network traffic anomaly detected.,3,Analyst_4
+File modified.,5,Analyst_3
+Network traffic anomaly detected.,3,Analyst_2
+Log file rotated.,3,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_2
+Unauthorized access attempt detected.,3,Analyst_1
+File modified.,1,Analyst_5
+Log file rotated.,2,Analyst_1
+Log file rotated.,5,Analyst_2
+Log file rotated.,1,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_1
+File modified.,5,Analyst_2
+Network traffic anomaly detected.,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_3
+Log file rotated.,3,Analyst_1
+Log file rotated.,3,Analyst_3
+File modified.,3,Analyst_3
+File modified.,3,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_1
+Log file rotated.,4,Analyst_1
+File modified.,4,Analyst_5
+Log file rotated.,3,Analyst_1
+Network traffic anomaly detected.,3,Analyst_3
+File modified.,3,Analyst_1
+File modified.,2,Analyst_2
+Network traffic anomaly detected.,5,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_4
+File modified.,1,Analyst_5
+File modified.,1,Analyst_1
+Network traffic anomaly detected.,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Log file rotated.,2,Analyst_5
+Log file rotated.,1,Analyst_1
+Network traffic anomaly detected.,2,Analyst_2
+Network traffic anomaly detected.,2,Analyst_4
+Network traffic anomaly detected.,3,Analyst_3
+Network traffic anomaly detected.,2,Analyst_4
+Network traffic anomaly detected.,3,Analyst_1
+File modified.,2,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_3
+Log file rotated.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Log file rotated.,4,Analyst_5
+Log file rotated.,4,Analyst_5
+Log file rotated.,3,Analyst_2
+Log file rotated.,3,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_1
+Log file rotated.,2,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_4
+Network traffic anomaly detected.,1,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_5
+Log file rotated.,3,Analyst_5
+Network traffic anomaly detected.,2,Analyst_4
+File modified.,4,Analyst_1
+Log file rotated.,1,Analyst_2
+File modified.,1,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_3
+File modified.,3,Analyst_4
+File modified.,1,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_4
+Log file rotated.,5,Analyst_4
+Network traffic anomaly detected.,3,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+File modified.,3,Analyst_1
+Log file rotated.,5,Analyst_1
+File modified.,1,Analyst_3
+Network traffic anomaly detected.,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_3
+Network traffic anomaly detected.,2,Analyst_1
+File modified.,2,Analyst_2
+Network traffic anomaly detected.,4,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_3
+File modified.,1,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_3
+File modified.,4,Analyst_4
+Log file rotated.,4,Analyst_4
+Log file rotated.,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Log file rotated.,2,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Network traffic anomaly detected.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Unauthorized access attempt detected.,2,Analyst_1
+Log file rotated.,2,Analyst_4
+Log file rotated.,3,Analyst_2
+Network traffic anomaly detected.,3,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_1
+File modified.,2,Analyst_4
+File modified.,5,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_1
+Log file rotated.,1,Analyst_1
+File modified.,3,Analyst_5
+File modified.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Log file rotated.,5,Analyst_1
+Log file rotated.,3,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_5
+Network traffic anomaly detected.,4,Analyst_2
+File modified.,4,Analyst_1
+Network traffic anomaly detected.,3,Analyst_5
+Network traffic anomaly detected.,5,Analyst_2
+Log file rotated.,2,Analyst_2
+File modified.,3,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_5
+Log file rotated.,2,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_1
+Log file rotated.,1,Analyst_4
+File modified.,1,Analyst_1
+Log file rotated.,2,Analyst_4
+Network traffic anomaly detected.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Network traffic anomaly detected.,2,Analyst_2
+Network traffic anomaly detected.,4,Analyst_4
+Network traffic anomaly detected.,3,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_3
+File modified.,2,Analyst_1
+Log file rotated.,5,Analyst_1
+File modified.,4,Analyst_5
+Log file rotated.,4,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_3
+Log file rotated.,2,Analyst_4
+Network traffic anomaly detected.,5,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_3
+Network traffic anomaly detected.,1,Analyst_1
+File modified.,3,Analyst_3
+File modified.,1,Analyst_2
+Log file rotated.,2,Analyst_3
+Log file rotated.,4,Analyst_3
+Network traffic anomaly detected.,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_1
+Network traffic anomaly detected.,2,Analyst_2
+Network traffic anomaly detected.,4,Analyst_1
+Network traffic anomaly detected.,1,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_5
+File modified.,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+File modified.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+Log file rotated.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_5
+Network traffic anomaly detected.,1,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_4
+Log file rotated.,4,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_3
+Log file rotated.,4,Analyst_3
+Log file rotated.,1,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Network traffic anomaly detected.,1,Analyst_1
+Network traffic anomaly detected.,1,Analyst_4
+Network traffic anomaly detected.,5,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+File modified.,3,Analyst_4
+Network traffic anomaly detected.,3,Analyst_4
+File modified.,3,Analyst_3
+File modified.,5,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_1
+Network traffic anomaly detected.,4,Analyst_1
+Network traffic anomaly detected.,1,Analyst_4
+Network traffic anomaly detected.,1,Analyst_2
+File modified.,4,Analyst_4
+File modified.,4,Analyst_2
+Log file rotated.,5,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_1
+File modified.,4,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_1
+Network traffic anomaly detected.,2,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_1
+Network traffic anomaly detected.,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Log file rotated.,1,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_3
+File modified.,3,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_1
+Network traffic anomaly detected.,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+File modified.,1,Analyst_5
+Network traffic anomaly detected.,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_2
+File modified.,3,Analyst_2
+File modified.,2,Analyst_2
+File modified.,1,Analyst_3
+Log file rotated.,2,Analyst_4
+Network traffic anomaly detected.,2,Analyst_5
+File modified.,4,Analyst_4
+File modified.,3,Analyst_3
+Network traffic anomaly detected.,2,Analyst_1
+Network traffic anomaly detected.,4,Analyst_5
+Network traffic anomaly detected.,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+File modified.,1,Analyst_5
+Network traffic anomaly detected.,3,Analyst_5
+File modified.,2,Analyst_5
+Network traffic anomaly detected.,5,Analyst_2
+Log file rotated.,4,Analyst_5
+File modified.,1,Analyst_1
+Log file rotated.,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Network traffic anomaly detected.,1,Analyst_1
+Log file rotated.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_2
+File modified.,3,Analyst_5
+Network traffic anomaly detected.,3,Analyst_5
+Log file rotated.,5,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Log file rotated.,1,Analyst_2
+File modified.,1,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_2
+Network traffic anomaly detected.,3,Analyst_5
+File modified.,3,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_5
+File modified.,4,Analyst_2
+Network traffic anomaly detected.,3,Analyst_1
+Log file rotated.,2,Analyst_2
+File modified.,3,Analyst_2
+File modified.,3,Analyst_2
+File modified.,1,Analyst_5
+File modified.,2,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_2
+Network traffic anomaly detected.,5,Analyst_2
+File modified.,3,Analyst_2
+File modified.,4,Analyst_1
+Log file rotated.,1,Analyst_2
+Log file rotated.,5,Analyst_2
+File modified.,5,Analyst_4
+Network traffic anomaly detected.,2,Analyst_5
+File modified.,4,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_1
+Log file rotated.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+File modified.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Log file rotated.,2,Analyst_4
+Network traffic anomaly detected.,1,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_5
+Log file rotated.,2,Analyst_5
+File modified.,1,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_3
+Network traffic anomaly detected.,4,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_5
+Network traffic anomaly detected.,3,Analyst_1
+Log file rotated.,4,Analyst_5
+File modified.,5,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Log file rotated.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Network traffic anomaly detected.,3,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_1
+Network traffic anomaly detected.,3,Analyst_3
+Network traffic anomaly detected.,1,Analyst_2
+File modified.,4,Analyst_1
+File modified.,2,Analyst_4
+Log file rotated.,3,Analyst_5
+File modified.,4,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_5
+File modified.,5,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_2
+File modified.,3,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_2
+File modified.,4,Analyst_1
+Log file rotated.,1,Analyst_1
+File modified.,2,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_4
+Log file rotated.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Log file rotated.,2,Analyst_4
+Network traffic anomaly detected.,3,Analyst_4
+Log file rotated.,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_3
+Log file rotated.,1,Analyst_1
+File modified.,5,Analyst_4
+Log file rotated.,3,Analyst_1
+File modified.,5,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_1
+Log file rotated.,1,Analyst_4
+Log file rotated.,1,Analyst_1
+File modified.,2,Analyst_4
+File modified.,2,Analyst_2
+Network traffic anomaly detected.,4,Analyst_3
+Log file rotated.,2,Analyst_4
+Log file rotated.,4,Analyst_1
+Network traffic anomaly detected.,2,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+File modified.,5,Analyst_2
+Log file rotated.,1,Analyst_4
+Network traffic anomaly detected.,5,Analyst_1
+Network traffic anomaly detected.,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_1
+Network traffic anomaly detected.,1,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_4
+Network traffic anomaly detected.,3,Analyst_2
+Network traffic anomaly detected.,4,Analyst_5
+Log file rotated.,3,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_1
+File modified.,1,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_5
+File modified.,4,Analyst_1
+Log file rotated.,3,Analyst_1
+File modified.,3,Analyst_4
+File modified.,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Network traffic anomaly detected.,3,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_1
+Network traffic anomaly detected.,3,Analyst_1
+File modified.,3,Analyst_4
+File modified.,1,Analyst_3
+Log file rotated.,3,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_1
+File modified.,4,Analyst_5
+File modified.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Network traffic anomaly detected.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Network traffic anomaly detected.,1,Analyst_1
+Log file rotated.,3,Analyst_1
+Network traffic anomaly detected.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+File modified.,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_4
+File modified.,2,Analyst_3
+Network traffic anomaly detected.,1,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_1
+Log file rotated.,3,Analyst_5
+File modified.,1,Analyst_4
+File modified.,1,Analyst_5
+Log file rotated.,1,Analyst_3
+Network traffic anomaly detected.,1,Analyst_5
+File modified.,4,Analyst_4
+Network traffic anomaly detected.,1,Analyst_5
+File modified.,4,Analyst_3
+File modified.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Log file rotated.,3,Analyst_5
+Log file rotated.,4,Analyst_2
+File modified.,4,Analyst_3
+Log file rotated.,3,Analyst_4
+Log file rotated.,1,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_5
+File modified.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Network traffic anomaly detected.,5,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_1
+Network traffic anomaly detected.,1,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_2
+Network traffic anomaly detected.,4,Analyst_5
+Network traffic anomaly detected.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+File modified.,5,Analyst_4
+Network traffic anomaly detected.,3,Analyst_2
+Network traffic anomaly detected.,2,Analyst_3
+Network traffic anomaly detected.,1,Analyst_3
+Log file rotated.,1,Analyst_4
+Log file rotated.,4,Analyst_3
+Log file rotated.,3,Analyst_2
+Log file rotated.,2,Analyst_2
+File modified.,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Network traffic anomaly detected.,2,Analyst_1
+File modified.,5,Analyst_3
+Log file rotated.,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Log file rotated.,4,Analyst_1
+Log file rotated.,1,Analyst_1
+Network traffic anomaly detected.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Log file rotated.,5,Analyst_1
+Network traffic anomaly detected.,1,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Network traffic anomaly detected.,2,Analyst_1
+Unauthorized access attempt detected.,2,Analyst_3
+Network traffic anomaly detected.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+File modified.,4,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_5
+Log file rotated.,1,Analyst_2
+Network traffic anomaly detected.,2,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+File modified.,2,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_5
+File modified.,3,Analyst_4
+File modified.,2,Analyst_4
+File modified.,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Log file rotated.,1,Analyst_5
+Log file rotated.,3,Analyst_3
+File modified.,1,Analyst_5
+File modified.,5,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+File modified.,1,Analyst_2
+File modified.,3,Analyst_5
+Network traffic anomaly detected.,1,Analyst_3
+Network traffic anomaly detected.,4,Analyst_3
+File modified.,2,Analyst_5
+File modified.,1,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_2
+Log file rotated.,4,Analyst_4
+Log file rotated.,3,Analyst_4
+Log file rotated.,2,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+File modified.,2,Analyst_4
+Log file rotated.,5,Analyst_3
+File modified.,2,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_1
+Log file rotated.,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Log file rotated.,5,Analyst_2
+Network traffic anomaly detected.,1,Analyst_5
+File modified.,4,Analyst_4
+Log file rotated.,2,Analyst_3
+Network traffic anomaly detected.,1,Analyst_3
+File modified.,4,Analyst_4
+Log file rotated.,2,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_2
+File modified.,2,Analyst_2
+Log file rotated.,3,Analyst_3
+File modified.,4,Analyst_4
+Network traffic anomaly detected.,3,Analyst_5
+File modified.,1,Analyst_5
+File modified.,1,Analyst_3
+Log file rotated.,3,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+File modified.,3,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+File modified.,3,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_1
+Network traffic anomaly detected.,5,Analyst_3
+File modified.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+File modified.,2,Analyst_2
+Network traffic anomaly detected.,2,Analyst_1
+Network traffic anomaly detected.,1,Analyst_3
+File modified.,5,Analyst_5
+Network traffic anomaly detected.,3,Analyst_1
+File modified.,4,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_4
+Network traffic anomaly detected.,4,Analyst_1
+Log file rotated.,5,Analyst_4
+File modified.,2,Analyst_1
+Log file rotated.,1,Analyst_4
+File modified.,3,Analyst_5
+File modified.,5,Analyst_1
+File modified.,2,Analyst_3
+Network traffic anomaly detected.,2,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_2
+Network traffic anomaly detected.,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_1
+File modified.,2,Analyst_3
+File modified.,3,Analyst_4
+File modified.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Network traffic anomaly detected.,5,Analyst_4
+Log file rotated.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_5
+Network traffic anomaly detected.,5,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_1
+Network traffic anomaly detected.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_2
+Network traffic anomaly detected.,4,Analyst_4
+Network traffic anomaly detected.,1,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_1
+Network traffic anomaly detected.,2,Analyst_1
+Log file rotated.,3,Analyst_5
+Log file rotated.,4,Analyst_4
+Network traffic anomaly detected.,1,Analyst_5
+Log file rotated.,3,Analyst_3
+Network traffic anomaly detected.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+File modified.,3,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_4
+Network traffic anomaly detected.,5,Analyst_5
+File modified.,5,Analyst_2
+Log file rotated.,2,Analyst_4
+File modified.,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_2
+Log file rotated.,5,Analyst_3
+Network traffic anomaly detected.,4,Analyst_5
+Network traffic anomaly detected.,2,Analyst_5
+Log file rotated.,2,Analyst_1
+Log file rotated.,2,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_1
+Network traffic anomaly detected.,2,Analyst_4
+Log file rotated.,3,Analyst_2
+Network traffic anomaly detected.,3,Analyst_2
+File modified.,1,Analyst_3
+File modified.,1,Analyst_3
+Network traffic anomaly detected.,3,Analyst_2
+File modified.,2,Analyst_4
+File modified.,2,Analyst_5
+File modified.,5,Analyst_5
+Network traffic anomaly detected.,2,Analyst_1
+Log file rotated.,2,Analyst_4
+Network traffic anomaly detected.,5,Analyst_4
+File modified.,3,Analyst_4
+Network traffic anomaly detected.,3,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_2
+Log file rotated.,2,Analyst_2
+Network traffic anomaly detected.,3,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_1
+Network traffic anomaly detected.,1,Analyst_2
+Network traffic anomaly detected.,3,Analyst_1
+File modified.,4,Analyst_4
+Log file rotated.,3,Analyst_1
+Network traffic anomaly detected.,3,Analyst_1
+Network traffic anomaly detected.,2,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_2
+File modified.,5,Analyst_1
+File modified.,5,Analyst_1
+File modified.,5,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_2
+File modified.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Network traffic anomaly detected.,3,Analyst_1
+File modified.,5,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_5
+Network traffic anomaly detected.,2,Analyst_4
+File modified.,4,Analyst_1
+Log file rotated.,2,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_5
+File modified.,5,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_1
+Log file rotated.,5,Analyst_4
+Log file rotated.,2,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_2
+Log file rotated.,2,Analyst_4
+Log file rotated.,1,Analyst_3
+File modified.,4,Analyst_3
+Network traffic anomaly detected.,5,Analyst_4
+Network traffic anomaly detected.,1,Analyst_5
+File modified.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Log file rotated.,4,Analyst_5
+File modified.,3,Analyst_5
+File modified.,3,Analyst_2
+Network traffic anomaly detected.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_1
+File modified.,4,Analyst_2
+Network traffic anomaly detected.,1,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_1
+Log file rotated.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+File modified.,3,Analyst_1
+Network traffic anomaly detected.,1,Analyst_4
+Network traffic anomaly detected.,5,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_3
+Log file rotated.,1,Analyst_1
+Log file rotated.,4,Analyst_2
+Network traffic anomaly detected.,4,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_2
+Network traffic anomaly detected.,5,Analyst_4
+Network traffic anomaly detected.,4,Analyst_1
+Log file rotated.,1,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_3
+Network traffic anomaly detected.,3,Analyst_4
+Log file rotated.,2,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_1
+Network traffic anomaly detected.,1,Analyst_5
+File modified.,3,Analyst_2
+Network traffic anomaly detected.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Log file rotated.,2,Analyst_3
+Log file rotated.,4,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_1
+Log file rotated.,2,Analyst_3
+Network traffic anomaly detected.,5,Analyst_2
+Log file rotated.,5,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_4
+File modified.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Log file rotated.,2,Analyst_1
+Network traffic anomaly detected.,5,Analyst_2
+File modified.,5,Analyst_4
+File modified.,3,Analyst_5
+File modified.,3,Analyst_1
+File modified.,4,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Log file rotated.,5,Analyst_2
+Log file rotated.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_3
+File modified.,3,Analyst_3
+Log file rotated.,3,Analyst_4
+Network traffic anomaly detected.,5,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_1
+Log file rotated.,3,Analyst_1
+File modified.,4,Analyst_2
+File modified.,3,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Log file rotated.,3,Analyst_1
+File modified.,1,Analyst_2
+Network traffic anomaly detected.,4,Analyst_4
+Network traffic anomaly detected.,2,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Network traffic anomaly detected.,4,Analyst_2
+Log file rotated.,3,Analyst_1
+Log file rotated.,5,Analyst_3
+Log file rotated.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Network traffic anomaly detected.,2,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_2
+Log file rotated.,4,Analyst_3
+Log file rotated.,5,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_4
+Log file rotated.,1,Analyst_1
+Log file rotated.,3,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_3
+Log file rotated.,5,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_4
+File modified.,2,Analyst_1
+Network traffic anomaly detected.,1,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_1
+Log file rotated.,4,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_3
+File modified.,1,Analyst_3
+File modified.,2,Analyst_5
+File modified.,5,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_2
+Network traffic anomaly detected.,4,Analyst_3
+Network traffic anomaly detected.,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Log file rotated.,2,Analyst_1
+File modified.,1,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_3
+File modified.,2,Analyst_3
+Network traffic anomaly detected.,5,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_2
+Network traffic anomaly detected.,2,Analyst_3
+Network traffic anomaly detected.,5,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_5
+File modified.,1,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_5
+Log file rotated.,1,Analyst_5
+Network traffic anomaly detected.,2,Analyst_1
+Log file rotated.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+File modified.,2,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Log file rotated.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_1
+File modified.,2,Analyst_4
+Network traffic anomaly detected.,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Log file rotated.,4,Analyst_5
+Log file rotated.,5,Analyst_2
+Network traffic anomaly detected.,2,Analyst_4
+Network traffic anomaly detected.,5,Analyst_3
+Log file rotated.,4,Analyst_2
+File modified.,2,Analyst_4
+Log file rotated.,5,Analyst_2
+Network traffic anomaly detected.,1,Analyst_1
+Network traffic anomaly detected.,2,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_3
+Network traffic anomaly detected.,3,Analyst_5
+File modified.,2,Analyst_5
+Network traffic anomaly detected.,4,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_5
+File modified.,1,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_4
+File modified.,4,Analyst_3
+Log file rotated.,4,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_5
+Log file rotated.,1,Analyst_3
+Log file rotated.,4,Analyst_1
+Log file rotated.,4,Analyst_3
+Log file rotated.,1,Analyst_3
+File modified.,2,Analyst_4
+File modified.,4,Analyst_1
+Network traffic anomaly detected.,2,Analyst_1
+Network traffic anomaly detected.,2,Analyst_2
+Log file rotated.,5,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+File modified.,5,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Network traffic anomaly detected.,3,Analyst_5
+Network traffic anomaly detected.,5,Analyst_4
+File modified.,2,Analyst_1
+Network traffic anomaly detected.,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+File modified.,1,Analyst_4
+Network traffic anomaly detected.,3,Analyst_2
+Log file rotated.,4,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_2
+Network traffic anomaly detected.,3,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_5
+File modified.,4,Analyst_5
+File modified.,4,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Network traffic anomaly detected.,3,Analyst_4
+Log file rotated.,1,Analyst_3
+Network traffic anomaly detected.,2,Analyst_3
+File modified.,3,Analyst_1
+Log file rotated.,3,Analyst_4
+File modified.,2,Analyst_2
+File modified.,1,Analyst_3
+File modified.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_2
+Unauthorized access attempt detected.,3,Analyst_1
+Log file rotated.,1,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_5
+File modified.,5,Analyst_4
+Network traffic anomaly detected.,5,Analyst_2
+File modified.,5,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_3
+File modified.,2,Analyst_5
+Log file rotated.,4,Analyst_2
+Network traffic anomaly detected.,4,Analyst_5
+Log file rotated.,2,Analyst_3
+File modified.,3,Analyst_2
+File modified.,2,Analyst_5
+Log file rotated.,3,Analyst_2
+Log file rotated.,4,Analyst_5
+Network traffic anomaly detected.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+File modified.,3,Analyst_2
+Network traffic anomaly detected.,1,Analyst_2
+Log file rotated.,1,Analyst_3
+Log file rotated.,1,Analyst_4
+Network traffic anomaly detected.,5,Analyst_4
+Network traffic anomaly detected.,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+Unauthorized access attempt detected.,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_3
+Log file rotated.,4,Analyst_1
+File modified.,1,Analyst_2
+File modified.,2,Analyst_2
+Unauthorized access attempt detected.,3,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+File modified.,4,Analyst_3
+Log file rotated.,3,Analyst_2
+File modified.,1,Analyst_2
+Log file rotated.,1,Analyst_5
+File modified.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_4
+Log file rotated.,1,Analyst_4
+Network traffic anomaly detected.,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Log file rotated.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+File modified.,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+File modified.,4,Analyst_3
+Log file rotated.,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_4
+Network traffic anomaly detected.,1,Analyst_3
+Log file rotated.,2,Analyst_5
+Network traffic anomaly detected.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Log file rotated.,3,Analyst_2
+File modified.,3,Analyst_4
+Network traffic anomaly detected.,1,Analyst_4
+Log file rotated.,2,Analyst_2
+Log file rotated.,2,Analyst_1
+Network traffic anomaly detected.,5,Analyst_4
+Network traffic anomaly detected.,5,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_1
+Log file rotated.,5,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_1
+Log file rotated.,2,Analyst_1
+Network traffic anomaly detected.,3,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_5
+Log file rotated.,2,Analyst_1
+File modified.,4,Analyst_5
+Network traffic anomaly detected.,5,Analyst_4
+File modified.,2,Analyst_1
+Log file rotated.,2,Analyst_4
+File modified.,1,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_1
+File modified.,4,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_3
+File modified.,2,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_4
+Network traffic anomaly detected.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Log file rotated.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Network traffic anomaly detected.,3,Analyst_4
+Network traffic anomaly detected.,5,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_3
+File modified.,1,Analyst_3
+File modified.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Log file rotated.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+File modified.,4,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_2
+Unauthorized access attempt detected.,3,Analyst_2
+Network traffic anomaly detected.,3,Analyst_1
+File modified.,4,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_5
+Network traffic anomaly detected.,4,Analyst_5
+Network traffic anomaly detected.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Network traffic anomaly detected.,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+File modified.,2,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_2
+Log file rotated.,3,Analyst_2
+Network traffic anomaly detected.,2,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_3
+Network traffic anomaly detected.,3,Analyst_2
+Log file rotated.,3,Analyst_2
+File modified.,4,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_4
+Network traffic anomaly detected.,2,Analyst_1
+Log file rotated.,4,Analyst_2
+File modified.,4,Analyst_3
+Network traffic anomaly detected.,1,Analyst_2
+File modified.,1,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_3
+Network traffic anomaly detected.,2,Analyst_1
+Network traffic anomaly detected.,2,Analyst_5
+Network traffic anomaly detected.,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Network traffic anomaly detected.,1,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_2
+Network traffic anomaly detected.,4,Analyst_1
+File modified.,1,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_3
+File modified.,1,Analyst_5
+File modified.,3,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Network traffic anomaly detected.,1,Analyst_1
+Log file rotated.,5,Analyst_5
+Network traffic anomaly detected.,3,Analyst_5
+Log file rotated.,4,Analyst_1
+Log file rotated.,3,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_4
+File modified.,2,Analyst_1
+Log file rotated.,1,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_5
+File modified.,3,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_5
+File modified.,3,Analyst_3
+Log file rotated.,5,Analyst_2
+Log file rotated.,5,Analyst_3
+Network traffic anomaly detected.,2,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_1
+Network traffic anomaly detected.,5,Analyst_4
+File modified.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_3
+File modified.,2,Analyst_1
+Log file rotated.,3,Analyst_4
+Log file rotated.,2,Analyst_4
+File modified.,5,Analyst_2
+Log file rotated.,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_2
+File modified.,3,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Network traffic anomaly detected.,5,Analyst_4
+File modified.,3,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_4
+Log file rotated.,5,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_1
+File modified.,5,Analyst_3
+File modified.,3,Analyst_2
+File modified.,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+File modified.,5,Analyst_1
+File modified.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Network traffic anomaly detected.,2,Analyst_4
+File modified.,3,Analyst_5
+Network traffic anomaly detected.,4,Analyst_4
+File modified.,1,Analyst_1
+Log file rotated.,1,Analyst_2
+Network traffic anomaly detected.,1,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_2
+Log file rotated.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Network traffic anomaly detected.,4,Analyst_4
+Network traffic anomaly detected.,3,Analyst_1
+Log file rotated.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Log file rotated.,3,Analyst_3
+File modified.,2,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_5
+Log file rotated.,3,Analyst_3
+Log file rotated.,2,Analyst_5
+Log file rotated.,2,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_1
+Network traffic anomaly detected.,5,Analyst_5
+Log file rotated.,4,Analyst_2
+Network traffic anomaly detected.,3,Analyst_4
+Log file rotated.,2,Analyst_3
+File modified.,3,Analyst_4
+Log file rotated.,3,Analyst_2
+File modified.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+File modified.,4,Analyst_1
+Log file rotated.,3,Analyst_2
+Network traffic anomaly detected.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+Log file rotated.,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+Log file rotated.,1,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_3
+Network traffic anomaly detected.,3,Analyst_3
+Network traffic anomaly detected.,4,Analyst_1
+Log file rotated.,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_3
+Network traffic anomaly detected.,5,Analyst_3
+Log file rotated.,2,Analyst_3
+File modified.,1,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_3
+File modified.,2,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_1
+Log file rotated.,2,Analyst_5
+Network traffic anomaly detected.,4,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_5
+File modified.,4,Analyst_3
+Log file rotated.,5,Analyst_3
+Network traffic anomaly detected.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_2
+Log file rotated.,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_1
+File modified.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Log file rotated.,4,Analyst_5
+File modified.,5,Analyst_3
+File modified.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Network traffic anomaly detected.,1,Analyst_2
+Network traffic anomaly detected.,2,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_2
+Network traffic anomaly detected.,3,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Network traffic anomaly detected.,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+File modified.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_5
+Log file rotated.,1,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_2
+Log file rotated.,5,Analyst_2
+File modified.,4,Analyst_5
+Network traffic anomaly detected.,4,Analyst_1
+Network traffic anomaly detected.,4,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_5
+Network traffic anomaly detected.,5,Analyst_1
+Network traffic anomaly detected.,3,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_5
+Network traffic anomaly detected.,5,Analyst_3
+Network traffic anomaly detected.,4,Analyst_5
+Network traffic anomaly detected.,1,Analyst_4
+Log file rotated.,5,Analyst_5
+File modified.,3,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_3
+Log file rotated.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Network traffic anomaly detected.,4,Analyst_2
+Network traffic anomaly detected.,3,Analyst_4
+File modified.,2,Analyst_4
+File modified.,5,Analyst_2
+File modified.,5,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_2
+Log file rotated.,1,Analyst_5
+Log file rotated.,2,Analyst_1
+Log file rotated.,5,Analyst_5
+File modified.,3,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+File modified.,3,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_4
+File modified.,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_5
+Log file rotated.,1,Analyst_5
+File modified.,4,Analyst_1
+File modified.,5,Analyst_5
+Network traffic anomaly detected.,5,Analyst_2
+File modified.,2,Analyst_2
+Log file rotated.,3,Analyst_2
+Log file rotated.,4,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_4
+Log file rotated.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Network traffic anomaly detected.,3,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_1
+File modified.,4,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_3
+File modified.,4,Analyst_3
+Log file rotated.,3,Analyst_3
+Network traffic anomaly detected.,5,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_5
+Network traffic anomaly detected.,3,Analyst_2
+Log file rotated.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Network traffic anomaly detected.,1,Analyst_4
+Network traffic anomaly detected.,2,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_4
+File modified.,3,Analyst_4
+Log file rotated.,2,Analyst_4
+Log file rotated.,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Network traffic anomaly detected.,5,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_5
+Log file rotated.,1,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_5
+File modified.,1,Analyst_2
+Log file rotated.,5,Analyst_2
+Log file rotated.,1,Analyst_5
+Log file rotated.,2,Analyst_1
+Log file rotated.,4,Analyst_1
+File modified.,1,Analyst_1
+Network traffic anomaly detected.,2,Analyst_3
+Log file rotated.,1,Analyst_5
+File modified.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+File modified.,3,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Network traffic anomaly detected.,5,Analyst_5
+Network traffic anomaly detected.,5,Analyst_1
+Log file rotated.,2,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_4
+Log file rotated.,1,Analyst_2
+File modified.,5,Analyst_1
+File modified.,4,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Log file rotated.,2,Analyst_5
+Log file rotated.,2,Analyst_3
+Network traffic anomaly detected.,2,Analyst_4
+Log file rotated.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_2
+File modified.,3,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_1
+Log file rotated.,4,Analyst_1
+File modified.,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+File modified.,3,Analyst_4
+Network traffic anomaly detected.,2,Analyst_5
+Log file rotated.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_3
+File modified.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_2
+Unauthorized access attempt detected.,3,Analyst_1
+Network traffic anomaly detected.,4,Analyst_5
+Log file rotated.,1,Analyst_5
+Log file rotated.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_1
+Network traffic anomaly detected.,4,Analyst_2
+File modified.,4,Analyst_5
+File modified.,2,Analyst_3
+File modified.,1,Analyst_2
+File modified.,5,Analyst_2
+Log file rotated.,4,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_3
+Log file rotated.,4,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_4
+Network traffic anomaly detected.,4,Analyst_5
+Log file rotated.,5,Analyst_5
+File modified.,2,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_4
+File modified.,1,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+File modified.,3,Analyst_4
+Network traffic anomaly detected.,2,Analyst_4
+Network traffic anomaly detected.,5,Analyst_3
+Log file rotated.,2,Analyst_2
+Network traffic anomaly detected.,5,Analyst_1
+File modified.,4,Analyst_2
+Log file rotated.,4,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_5
+Log file rotated.,2,Analyst_1
+Log file rotated.,1,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_1
+File modified.,3,Analyst_3
+Log file rotated.,4,Analyst_5
+File modified.,1,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Network traffic anomaly detected.,2,Analyst_3
+Log file rotated.,3,Analyst_5
+Log file rotated.,3,Analyst_3
+Log file rotated.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Network traffic anomaly detected.,4,Analyst_4
+File modified.,1,Analyst_1
+Log file rotated.,3,Analyst_1
+Log file rotated.,3,Analyst_3
+File modified.,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_1
+File modified.,3,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_3
+Network traffic anomaly detected.,5,Analyst_4
+Log file rotated.,3,Analyst_3
+File modified.,5,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_2
+Network traffic anomaly detected.,4,Analyst_1
+File modified.,4,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Log file rotated.,3,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Log file rotated.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Log file rotated.,1,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Network traffic anomaly detected.,1,Analyst_5
+File modified.,5,Analyst_4
+File modified.,5,Analyst_5
+Log file rotated.,2,Analyst_3
+Log file rotated.,2,Analyst_1
+Network traffic anomaly detected.,5,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_1
+File modified.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+File modified.,1,Analyst_2
+File modified.,5,Analyst_4
+Network traffic anomaly detected.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+File modified.,2,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_3
+File modified.,4,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_4
+Network traffic anomaly detected.,2,Analyst_1
+Log file rotated.,3,Analyst_5
+Network traffic anomaly detected.,5,Analyst_1
+Network traffic anomaly detected.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+File modified.,3,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Network traffic anomaly detected.,3,Analyst_4
+Log file rotated.,3,Analyst_2
+Log file rotated.,2,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_5
+File modified.,1,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_3
+Log file rotated.,4,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_5
+Log file rotated.,3,Analyst_5
+Log file rotated.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Network traffic anomaly detected.,2,Analyst_5
+Network traffic anomaly detected.,1,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+Network traffic anomaly detected.,4,Analyst_4
+Log file rotated.,5,Analyst_3
+File modified.,3,Analyst_2
+File modified.,5,Analyst_3
+Network traffic anomaly detected.,5,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Network traffic anomaly detected.,4,Analyst_4
+Log file rotated.,4,Analyst_4
+File modified.,3,Analyst_1
+File modified.,3,Analyst_5
+Log file rotated.,1,Analyst_2
+Network traffic anomaly detected.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_3
+Network traffic anomaly detected.,2,Analyst_2
+File modified.,1,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_3
+Log file rotated.,2,Analyst_1
+Log file rotated.,4,Analyst_4
+File modified.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Log file rotated.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+File modified.,2,Analyst_3
+Log file rotated.,1,Analyst_4
+File modified.,2,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_5
+Log file rotated.,4,Analyst_4
+Log file rotated.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Log file rotated.,2,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_2
+Network traffic anomaly detected.,5,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+File modified.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+File modified.,2,Analyst_3
+File modified.,5,Analyst_4
+File modified.,2,Analyst_5
+Log file rotated.,3,Analyst_1
+Log file rotated.,3,Analyst_4
+File modified.,1,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_1
+Log file rotated.,5,Analyst_1
+File modified.,1,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_4
+Log file rotated.,2,Analyst_5
+Log file rotated.,5,Analyst_2
+Log file rotated.,1,Analyst_1
+Log file rotated.,1,Analyst_1
+Log file rotated.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_5
+Log file rotated.,2,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_1
+File modified.,2,Analyst_5
+Log file rotated.,3,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_1
+Log file rotated.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Network traffic anomaly detected.,5,Analyst_3
+File modified.,5,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Network traffic anomaly detected.,3,Analyst_5
+Network traffic anomaly detected.,5,Analyst_2
+Log file rotated.,3,Analyst_1
+Network traffic anomaly detected.,1,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+File modified.,4,Analyst_5
+File modified.,5,Analyst_2
+Log file rotated.,3,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_5
+File modified.,4,Analyst_3
+Log file rotated.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_4
+File modified.,1,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_4
+Log file rotated.,1,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_1
+Log file rotated.,1,Analyst_4
+Network traffic anomaly detected.,1,Analyst_4
+Network traffic anomaly detected.,3,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_4
+File modified.,5,Analyst_5
+Log file rotated.,5,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_2
+Network traffic anomaly detected.,4,Analyst_1
+File modified.,2,Analyst_5
+Network traffic anomaly detected.,1,Analyst_5
+Log file rotated.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Network traffic anomaly detected.,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_5
+Log file rotated.,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Log file rotated.,2,Analyst_4
+File modified.,2,Analyst_5
+Log file rotated.,4,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_3
+Log file rotated.,1,Analyst_4
+Log file rotated.,4,Analyst_2
+Log file rotated.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Network traffic anomaly detected.,1,Analyst_5
+File modified.,1,Analyst_2
+Network traffic anomaly detected.,4,Analyst_5
+Log file rotated.,3,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_1
+Log file rotated.,1,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_5
+File modified.,5,Analyst_1
+File modified.,1,Analyst_4
+Network traffic anomaly detected.,1,Analyst_2
+Log file rotated.,1,Analyst_3
+Network traffic anomaly detected.,5,Analyst_4
+Log file rotated.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_1
+Network traffic anomaly detected.,2,Analyst_4
+File modified.,5,Analyst_2
+File modified.,4,Analyst_5
+Log file rotated.,3,Analyst_5
+File modified.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+File modified.,4,Analyst_1
+Log file rotated.,1,Analyst_3
+Network traffic anomaly detected.,4,Analyst_2
+Network traffic anomaly detected.,1,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Network traffic anomaly detected.,4,Analyst_4
+Log file rotated.,4,Analyst_1
+Log file rotated.,3,Analyst_4
+File modified.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_2
+Network traffic anomaly detected.,1,Analyst_3
+Network traffic anomaly detected.,4,Analyst_2
+File modified.,1,Analyst_1
+Log file rotated.,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Unauthorized access attempt detected.,2,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Network traffic anomaly detected.,1,Analyst_2
+Network traffic anomaly detected.,4,Analyst_5
+Network traffic anomaly detected.,5,Analyst_1
+Network traffic anomaly detected.,2,Analyst_5
+Network traffic anomaly detected.,1,Analyst_4
+File modified.,3,Analyst_4
+Log file rotated.,4,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_2
+Log file rotated.,2,Analyst_3
+Network traffic anomaly detected.,5,Analyst_4
+Network traffic anomaly detected.,3,Analyst_2
+Log file rotated.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_1
+Network traffic anomaly detected.,5,Analyst_4
+Network traffic anomaly detected.,4,Analyst_3
+Log file rotated.,2,Analyst_1
+File modified.,4,Analyst_5
+File modified.,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Log file rotated.,1,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_5
+Log file rotated.,3,Analyst_5
+File modified.,1,Analyst_5
+File modified.,3,Analyst_1
+Log file rotated.,5,Analyst_4
+File modified.,4,Analyst_2
+Log file rotated.,1,Analyst_2
+Network traffic anomaly detected.,5,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+File modified.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+File modified.,1,Analyst_3
+Network traffic anomaly detected.,5,Analyst_1
+Log file rotated.,4,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_3
+Network traffic anomaly detected.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+File modified.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_3
+Log file rotated.,5,Analyst_3
+Log file rotated.,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Log file rotated.,5,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_1
+File modified.,3,Analyst_2
+File modified.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_2
+Log file rotated.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Network traffic anomaly detected.,4,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_3
+File modified.,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+File modified.,3,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_4
+Log file rotated.,4,Analyst_4
+File modified.,4,Analyst_4
+Log file rotated.,3,Analyst_2
+Log file rotated.,5,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_3
+Network traffic anomaly detected.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+File modified.,3,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_1
+Log file rotated.,2,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+File modified.,1,Analyst_1
+Log file rotated.,3,Analyst_4
+Network traffic anomaly detected.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_3
+Log file rotated.,5,Analyst_3
+Network traffic anomaly detected.,4,Analyst_5
+File modified.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_1
+Network traffic anomaly detected.,3,Analyst_5
+Log file rotated.,1,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_3
+File modified.,4,Analyst_1
+Log file rotated.,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Log file rotated.,1,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_3
+Log file rotated.,5,Analyst_2
+File modified.,3,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_3
+File modified.,1,Analyst_2
+File modified.,4,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_5
+File modified.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_1
+Log file rotated.,3,Analyst_4
+Log file rotated.,4,Analyst_2
+Log file rotated.,4,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_4
+File modified.,3,Analyst_2
+Log file rotated.,2,Analyst_3
+Network traffic anomaly detected.,3,Analyst_3
+Log file rotated.,3,Analyst_2
+File modified.,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Network traffic anomaly detected.,3,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Network traffic anomaly detected.,4,Analyst_2
+Unauthorized access attempt detected.,3,Analyst_2
+Log file rotated.,5,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_1
+Network traffic anomaly detected.,2,Analyst_1
+Network traffic anomaly detected.,5,Analyst_2
+Log file rotated.,2,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+File modified.,4,Analyst_2
+File modified.,3,Analyst_3
+Network traffic anomaly detected.,4,Analyst_1
+Network traffic anomaly detected.,3,Analyst_2
+Log file rotated.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_4
+File modified.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Log file rotated.,5,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_4
+Network traffic anomaly detected.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Network traffic anomaly detected.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_2
+Log file rotated.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Network traffic anomaly detected.,2,Analyst_2
+Log file rotated.,3,Analyst_4
+File modified.,5,Analyst_4
+File modified.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+File modified.,5,Analyst_3
+Log file rotated.,4,Analyst_4
+Network traffic anomaly detected.,1,Analyst_4
+Log file rotated.,1,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_3
+Network traffic anomaly detected.,3,Analyst_5
+Log file rotated.,3,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_5
+File modified.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Log file rotated.,4,Analyst_1
+File modified.,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+File modified.,5,Analyst_2
+File modified.,5,Analyst_3
+File modified.,5,Analyst_2
+File modified.,2,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_1
+File modified.,5,Analyst_3
+Log file rotated.,4,Analyst_4
+Network traffic anomaly detected.,2,Analyst_2
+Network traffic anomaly detected.,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Log file rotated.,4,Analyst_5
+Network traffic anomaly detected.,3,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_1
+Log file rotated.,3,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Network traffic anomaly detected.,5,Analyst_2
+File modified.,4,Analyst_4
+File modified.,5,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_2
+Network traffic anomaly detected.,4,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+File modified.,4,Analyst_4
+Log file rotated.,4,Analyst_5
+Log file rotated.,2,Analyst_4
+File modified.,3,Analyst_5
+Network traffic anomaly detected.,4,Analyst_2
+Network traffic anomaly detected.,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Log file rotated.,5,Analyst_4
+Log file rotated.,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+File modified.,3,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+File modified.,5,Analyst_5
+File modified.,2,Analyst_5
+File modified.,4,Analyst_5
+File modified.,2,Analyst_2
+Network traffic anomaly detected.,4,Analyst_3
+File modified.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Log file rotated.,3,Analyst_1
+Network traffic anomaly detected.,2,Analyst_4
+File modified.,2,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+File modified.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+File modified.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Log file rotated.,3,Analyst_1
+File modified.,1,Analyst_4
+Network traffic anomaly detected.,5,Analyst_4
+Network traffic anomaly detected.,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+File modified.,3,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Network traffic anomaly detected.,2,Analyst_1
+Network traffic anomaly detected.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_5
+Log file rotated.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+Network traffic anomaly detected.,2,Analyst_2
+Network traffic anomaly detected.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_3
+Network traffic anomaly detected.,5,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_2
+File modified.,4,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_1
+Log file rotated.,5,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Log file rotated.,1,Analyst_2
+Log file rotated.,1,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_1
+Log file rotated.,5,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_4
+Network traffic anomaly detected.,5,Analyst_4
+File modified.,5,Analyst_4
+File modified.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_4
+File modified.,5,Analyst_1
+Network traffic anomaly detected.,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+Log file rotated.,5,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Log file rotated.,4,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Network traffic anomaly detected.,1,Analyst_1
+Network traffic anomaly detected.,3,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Log file rotated.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_3
+Network traffic anomaly detected.,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Log file rotated.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+File modified.,1,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_2
+Log file rotated.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_5
+File modified.,5,Analyst_5
+File modified.,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Log file rotated.,1,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+File modified.,3,Analyst_2
+Log file rotated.,2,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_3
+Log file rotated.,5,Analyst_5
+Network traffic anomaly detected.,5,Analyst_4
+Log file rotated.,5,Analyst_4
+Network traffic anomaly detected.,3,Analyst_1
+Network traffic anomaly detected.,5,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_3
+File modified.,2,Analyst_4
+Log file rotated.,1,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_4
+Network traffic anomaly detected.,4,Analyst_1
+Network traffic anomaly detected.,2,Analyst_2
+Unauthorized access attempt detected.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Log file rotated.,1,Analyst_3
+Log file rotated.,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_4
+File modified.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+File modified.,1,Analyst_4
+Network traffic anomaly detected.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_2
+Network traffic anomaly detected.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_4
+Log file rotated.,3,Analyst_3
+File modified.,2,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_4
+Log file rotated.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_3
+Log file rotated.,3,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_2
+Log file rotated.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Network traffic anomaly detected.,1,Analyst_4
+Log file rotated.,4,Analyst_3
+File modified.,2,Analyst_4
+Network traffic anomaly detected.,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_4
+File modified.,1,Analyst_3
+Network traffic anomaly detected.,2,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Log file rotated.,5,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_5
+Network traffic anomaly detected.,4,Analyst_3
+File modified.,4,Analyst_4
+File modified.,2,Analyst_2
+Unauthorized access attempt detected.,3,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_2
+File modified.,4,Analyst_2
+Log file rotated.,3,Analyst_2
+Network traffic anomaly detected.,5,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_2
+File modified.,2,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_2
+Network traffic anomaly detected.,5,Analyst_2
+Network traffic anomaly detected.,4,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_5
+File modified.,5,Analyst_3
+File modified.,4,Analyst_5
+Network traffic anomaly detected.,3,Analyst_2
+File modified.,4,Analyst_4
+Network traffic anomaly detected.,1,Analyst_3
+File modified.,4,Analyst_3
+Network traffic anomaly detected.,1,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Log file rotated.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_3
+File modified.,1,Analyst_4
+File modified.,2,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_3
+Log file rotated.,4,Analyst_1
+File modified.,2,Analyst_1
+File modified.,1,Analyst_1
+Log file rotated.,1,Analyst_3
+Network traffic anomaly detected.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Network traffic anomaly detected.,4,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_4
+File modified.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+Log file rotated.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Network traffic anomaly detected.,3,Analyst_4
+Network traffic anomaly detected.,2,Analyst_3
+Network traffic anomaly detected.,5,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Log file rotated.,5,Analyst_2
+Network traffic anomaly detected.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Network traffic anomaly detected.,4,Analyst_4
+Log file rotated.,1,Analyst_4
+Network traffic anomaly detected.,3,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_5
+Log file rotated.,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Log file rotated.,2,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_5
+Log file rotated.,3,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+Log file rotated.,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_2
+File modified.,2,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_2
+Log file rotated.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_4
+Network traffic anomaly detected.,2,Analyst_4
+File modified.,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Log file rotated.,3,Analyst_2
+Log file rotated.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Log file rotated.,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Network traffic anomaly detected.,3,Analyst_5
+Log file rotated.,1,Analyst_2
+File modified.,3,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_2
+Network traffic anomaly detected.,3,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_1
+Network traffic anomaly detected.,4,Analyst_1
+Log file rotated.,5,Analyst_1
+File modified.,4,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_1
+Network traffic anomaly detected.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+Log file rotated.,1,Analyst_3
+File modified.,1,Analyst_4
+Network traffic anomaly detected.,3,Analyst_2
+Network traffic anomaly detected.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+File modified.,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Log file rotated.,2,Analyst_1
+Log file rotated.,1,Analyst_2
+Network traffic anomaly detected.,1,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Network traffic anomaly detected.,4,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_5
+File modified.,2,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+Network traffic anomaly detected.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Log file rotated.,3,Analyst_3
+File modified.,1,Analyst_1
+Log file rotated.,5,Analyst_5
+Log file rotated.,3,Analyst_3
+Log file rotated.,3,Analyst_1
+File modified.,5,Analyst_4
+Log file rotated.,2,Analyst_4
+Log file rotated.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_4
+Log file rotated.,1,Analyst_2
+File modified.,4,Analyst_1
+File modified.,5,Analyst_2
+Log file rotated.,3,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_5
+Network traffic anomaly detected.,4,Analyst_2
+Log file rotated.,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Log file rotated.,1,Analyst_4
+Network traffic anomaly detected.,1,Analyst_4
+File modified.,3,Analyst_1
+File modified.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Log file rotated.,2,Analyst_5
+Log file rotated.,1,Analyst_3
+Network traffic anomaly detected.,5,Analyst_5
+Network traffic anomaly detected.,3,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+File modified.,1,Analyst_5
+File modified.,4,Analyst_3
+Network traffic anomaly detected.,2,Analyst_3
+Log file rotated.,1,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_3
+Log file rotated.,1,Analyst_1
+Network traffic anomaly detected.,5,Analyst_1
+Network traffic anomaly detected.,3,Analyst_2
+File modified.,2,Analyst_2
+Network traffic anomaly detected.,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+Network traffic anomaly detected.,3,Analyst_1
+Log file rotated.,4,Analyst_2
+Log file rotated.,4,Analyst_5
+Network traffic anomaly detected.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_3
+Log file rotated.,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Network traffic anomaly detected.,5,Analyst_2
+Log file rotated.,5,Analyst_2
+Network traffic anomaly detected.,2,Analyst_3
+Log file rotated.,5,Analyst_4
+Network traffic anomaly detected.,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Log file rotated.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+File modified.,4,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_3
+Network traffic anomaly detected.,1,Analyst_1
+File modified.,4,Analyst_2
+Log file rotated.,4,Analyst_5
+Log file rotated.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+File modified.,2,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Log file rotated.,4,Analyst_5
+Network traffic anomaly detected.,2,Analyst_2
+File modified.,5,Analyst_5
+Log file rotated.,2,Analyst_4
+File modified.,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Network traffic anomaly detected.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+File modified.,5,Analyst_3
+Log file rotated.,2,Analyst_4
+Network traffic anomaly detected.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Network traffic anomaly detected.,4,Analyst_5
+Log file rotated.,2,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+File modified.,4,Analyst_5
+Log file rotated.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_4
+Log file rotated.,3,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_1
+File modified.,2,Analyst_2
+File modified.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Network traffic anomaly detected.,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Log file rotated.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_5
+File modified.,4,Analyst_1
+Network traffic anomaly detected.,1,Analyst_5
+Log file rotated.,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+File modified.,3,Analyst_1
+Network traffic anomaly detected.,4,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_5
+Log file rotated.,2,Analyst_2
+Log file rotated.,4,Analyst_4
+Network traffic anomaly detected.,4,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_4
+File modified.,4,Analyst_4
+Log file rotated.,5,Analyst_1
+Log file rotated.,1,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_5
+File modified.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_4
+Network traffic anomaly detected.,2,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Network traffic anomaly detected.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+Network traffic anomaly detected.,5,Analyst_4
+Log file rotated.,3,Analyst_5
+File modified.,1,Analyst_1
+File modified.,4,Analyst_5
+Network traffic anomaly detected.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_1
+File modified.,3,Analyst_3
+File modified.,5,Analyst_1
+Network traffic anomaly detected.,1,Analyst_1
+Network traffic anomaly detected.,2,Analyst_2
+Log file rotated.,4,Analyst_5
+Network traffic anomaly detected.,3,Analyst_2
+Network traffic anomaly detected.,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Network traffic anomaly detected.,2,Analyst_2
+Log file rotated.,5,Analyst_4
+Log file rotated.,3,Analyst_1
+File modified.,2,Analyst_3
+File modified.,1,Analyst_2
+Network traffic anomaly detected.,4,Analyst_4
+File modified.,1,Analyst_1
+Log file rotated.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Log file rotated.,5,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_2
+Log file rotated.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+File modified.,5,Analyst_5
+Network traffic anomaly detected.,1,Analyst_5
+Network traffic anomaly detected.,2,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+File modified.,4,Analyst_2
+Network traffic anomaly detected.,3,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_1
+Log file rotated.,4,Analyst_5
+Log file rotated.,5,Analyst_1
+Log file rotated.,5,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_5
+Network traffic anomaly detected.,5,Analyst_5
+Log file rotated.,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+File modified.,5,Analyst_2
+File modified.,5,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_2
+File modified.,2,Analyst_4
+Log file rotated.,5,Analyst_5
+Network traffic anomaly detected.,1,Analyst_4
+File modified.,2,Analyst_1
+File modified.,2,Analyst_1
+Unauthorized access attempt detected.,2,Analyst_2
+Network traffic anomaly detected.,1,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_5
+Network traffic anomaly detected.,5,Analyst_4
+File modified.,5,Analyst_3
+File modified.,3,Analyst_1
+File modified.,4,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Network traffic anomaly detected.,3,Analyst_5
+File modified.,3,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_4
+File modified.,4,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_4
+Network traffic anomaly detected.,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+File modified.,4,Analyst_4
+Network traffic anomaly detected.,4,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_4
+Network traffic anomaly detected.,4,Analyst_5
+Network traffic anomaly detected.,1,Analyst_5
+Log file rotated.,1,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_2
+File modified.,1,Analyst_1
+Log file rotated.,2,Analyst_3
+Network traffic anomaly detected.,4,Analyst_5
+Network traffic anomaly detected.,1,Analyst_5
+File modified.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_5
+File modified.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_1
+File modified.,5,Analyst_1
+Network traffic anomaly detected.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Network traffic anomaly detected.,4,Analyst_4
+Log file rotated.,2,Analyst_5
+Log file rotated.,1,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+File modified.,4,Analyst_4
+File modified.,5,Analyst_4
+Log file rotated.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Network traffic anomaly detected.,2,Analyst_3
+File modified.,4,Analyst_3
+Log file rotated.,5,Analyst_3
+Network traffic anomaly detected.,2,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_3
+Network traffic anomaly detected.,4,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_1
+Network traffic anomaly detected.,4,Analyst_4
+Log file rotated.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_3
+File modified.,3,Analyst_3
+File modified.,4,Analyst_2
+Network traffic anomaly detected.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Log file rotated.,2,Analyst_3
+Network traffic anomaly detected.,4,Analyst_5
+Log file rotated.,3,Analyst_4
+Network traffic anomaly detected.,5,Analyst_4
+Log file rotated.,5,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_3
+Network traffic anomaly detected.,1,Analyst_1
+File modified.,4,Analyst_2
+Network traffic anomaly detected.,5,Analyst_1
+File modified.,1,Analyst_2
+Log file rotated.,4,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_1
+File modified.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Log file rotated.,2,Analyst_2
+Log file rotated.,4,Analyst_3
+Unauthorized access attempt detected.,3,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_2
+File modified.,4,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_1
+Log file rotated.,1,Analyst_3
+File modified.,4,Analyst_2
+Log file rotated.,2,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_4
+Log file rotated.,1,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_4
+Network traffic anomaly detected.,1,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_5
+File modified.,2,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+File modified.,5,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Log file rotated.,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Network traffic anomaly detected.,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+File modified.,1,Analyst_5
+Log file rotated.,2,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_5
+Log file rotated.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_3
+Log file rotated.,3,Analyst_4
+Network traffic anomaly detected.,2,Analyst_4
+Network traffic anomaly detected.,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_2
+Network traffic anomaly detected.,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Network traffic anomaly detected.,4,Analyst_2
+Log file rotated.,3,Analyst_1
+File modified.,1,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_2
+Network traffic anomaly detected.,4,Analyst_1
+File modified.,4,Analyst_4
+File modified.,3,Analyst_4
+Network traffic anomaly detected.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Log file rotated.,4,Analyst_2
+File modified.,3,Analyst_2
+Log file rotated.,5,Analyst_3
+Network traffic anomaly detected.,4,Analyst_5
+File modified.,5,Analyst_3
+Log file rotated.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Network traffic anomaly detected.,1,Analyst_5
+Network traffic anomaly detected.,5,Analyst_1
+File modified.,3,Analyst_2
+File modified.,1,Analyst_5
+Log file rotated.,4,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_5
+Network traffic anomaly detected.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+File modified.,2,Analyst_2
+Log file rotated.,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_3
+Log file rotated.,5,Analyst_5
+File modified.,5,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_5
+File modified.,1,Analyst_3
+Network traffic anomaly detected.,1,Analyst_2
+Log file rotated.,5,Analyst_4
+Log file rotated.,4,Analyst_1
+File modified.,3,Analyst_1
+File modified.,1,Analyst_2
+File modified.,1,Analyst_5
+Network traffic anomaly detected.,5,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Network traffic anomaly detected.,3,Analyst_2
+File modified.,5,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+File modified.,1,Analyst_1
+Log file rotated.,1,Analyst_4
+Log file rotated.,1,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_5
+Unauthorized access attempt detected.,4,Analyst_2
+Network traffic anomaly detected.,2,Analyst_5
+File modified.,5,Analyst_4
+Network traffic anomaly detected.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_1
+File modified.,3,Analyst_2
+File modified.,5,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Network traffic anomaly detected.,5,Analyst_4
+Network traffic anomaly detected.,1,Analyst_3
+Log file rotated.,5,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_1
+Network traffic anomaly detected.,4,Analyst_2
+Log file rotated.,1,Analyst_1
+Log file rotated.,4,Analyst_2
+Log file rotated.,4,Analyst_1
+Log file rotated.,2,Analyst_4
+Unauthorized access attempt detected.,1,Analyst_4
+Network traffic anomaly detected.,1,Analyst_3
+File modified.,5,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Network traffic anomaly detected.,4,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_1
+Log file rotated.,1,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_1
+File modified.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Network traffic anomaly detected.,2,Analyst_5
+File modified.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Network traffic anomaly detected.,5,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_2
+Log file rotated.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_1
+Log file rotated.,3,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_1
+Network traffic anomaly detected.,1,Analyst_4
+Log file rotated.,3,Analyst_3
+Log file rotated.,5,Analyst_4
+Network traffic anomaly detected.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_2
+Log file rotated.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Network traffic anomaly detected.,1,Analyst_4
+File modified.,4,Analyst_5
+Network traffic anomaly detected.,2,Analyst_4
+Unauthorized access attempt detected.,4,Analyst_5
+File modified.,4,Analyst_5
+File modified.,5,Analyst_4
+File modified.,2,Analyst_3
+Log file rotated.,5,Analyst_2
+Unauthorized access attempt detected.,3,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_1
+Network traffic anomaly detected.,1,Analyst_5
+File modified.,3,Analyst_1
+Network traffic anomaly detected.,4,Analyst_3
+File modified.,2,Analyst_4
+Network traffic anomaly detected.,2,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_1
+Log file rotated.,2,Analyst_4
+File modified.,1,Analyst_3
+Log file rotated.,5,Analyst_5
+Network traffic anomaly detected.,1,Analyst_4
+Network traffic anomaly detected.,2,Analyst_1
+Unauthorized access attempt detected.,2,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_3
+Network traffic anomaly detected.,1,Analyst_1
+Network traffic anomaly detected.,4,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_3
+Log file rotated.,1,Analyst_4
+Log file rotated.,3,Analyst_5
+File modified.,1,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_5
+File modified.,2,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_1
+Log file rotated.,2,Analyst_4
+File modified.,4,Analyst_5
+Network traffic anomaly detected.,1,Analyst_4
+File modified.,2,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_1
+Log file rotated.,3,Analyst_1
+File modified.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_4
+Unauthorized access attempt detected.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Log file rotated.,2,Analyst_4
+Log file rotated.,5,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+File modified.,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_2
+Log file rotated.,1,Analyst_4
+File modified.,4,Analyst_2
+Unauthorized access attempt detected.,3,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Network traffic anomaly detected.,5,Analyst_1
+Log file rotated.,2,Analyst_5
+File modified.,1,Analyst_3
+File modified.,3,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_4
+File modified.,2,Analyst_2
+Log file rotated.,4,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_3
+File modified.,3,Analyst_3
+Network traffic anomaly detected.,1,Analyst_1
+Unauthorized access attempt detected.,2,Analyst_5
+Log file rotated.,1,Analyst_5
+Network traffic anomaly detected.,3,Analyst_2
+Network traffic anomaly detected.,3,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_2
+Network traffic anomaly detected.,3,Analyst_1
+Log file rotated.,4,Analyst_3
+Unauthorized access attempt detected.,1,Analyst_1
+Log file rotated.,4,Analyst_2
+Network traffic anomaly detected.,1,Analyst_4
+Network traffic anomaly detected.,2,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_2
+Unauthorized access attempt detected.,2,Analyst_2
+File modified.,3,Analyst_4
+Network traffic anomaly detected.,3,Analyst_4
+Network traffic anomaly detected.,4,Analyst_1
+Network traffic anomaly detected.,5,Analyst_4
+Network traffic anomaly detected.,1,Analyst_1
+Unauthorized access attempt detected.,1,Analyst_4
+Log file rotated.,5,Analyst_5
+File modified.,4,Analyst_1
+Log file rotated.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Network traffic anomaly detected.,1,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Network traffic anomaly detected.,5,Analyst_1
+Unauthorized access attempt detected.,4,Analyst_2
+Unauthorized access attempt detected.,5,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_4
+File modified.,4,Analyst_5
+Log file rotated.,1,Analyst_4
+Log file rotated.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_2
+Network traffic anomaly detected.,4,Analyst_5
+Unauthorized access attempt detected.,5,Analyst_5
+Log file rotated.,1,Analyst_4
+Unauthorized access attempt detected.,5,Analyst_1
+File modified.,4,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_1
+Network traffic anomaly detected.,2,Analyst_4
+File modified.,2,Analyst_5
+Unauthorized access attempt detected.,3,Analyst_4
+Network traffic anomaly detected.,2,Analyst_4
+Log file rotated.,2,Analyst_3
+Network traffic anomaly detected.,3,Analyst_5
+Network traffic anomaly detected.,4,Analyst_3
+Unauthorized access attempt detected.,4,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_5
+File modified.,2,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_1
+Log file rotated.,1,Analyst_2
+File modified.,4,Analyst_4
+File modified.,3,Analyst_2
+Network traffic anomaly detected.,3,Analyst_1
+File modified.,5,Analyst_5
+File modified.,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_1
+Network traffic anomaly detected.,1,Analyst_4
+Log file rotated.,5,Analyst_3
+Network traffic anomaly detected.,5,Analyst_5
+File modified.,4,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_2
+Network traffic anomaly detected.,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_4
+Network traffic anomaly detected.,3,Analyst_3
+Log file rotated.,5,Analyst_2
+Log file rotated.,5,Analyst_1
+Log file rotated.,5,Analyst_4
+Network traffic anomaly detected.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+File modified.,5,Analyst_2
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Log file rotated.,3,Analyst_5
+Network traffic anomaly detected.,5,Analyst_4
+Network traffic anomaly detected.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,2,Analyst_5
+Unauthorized access attempt detected.,2,Analyst_5
+File modified.,1,Analyst_2
+Unauthorized access attempt detected.,1,Analyst_1
+Unauthorized access attempt detected.,5,Analyst_1
+Unauthorized access attempt detected.,2,Analyst_4
+Log file rotated.,3,Analyst_4
+Log file rotated.,1,Analyst_5
+Network traffic anomaly detected.,4,Analyst_1
+File modified.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_5
+File modified.,3,Analyst_4
+Log file rotated.,4,Analyst_2
+File modified.,3,Analyst_4
+Log file rotated.,5,Analyst_2
+File modified.,1,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,1,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_1
+Unauthorized access attempt detected.,3,Analyst_3
+Unauthorized access attempt detected.,5,Analyst_3
+Network traffic anomaly detected.,3,Analyst_4
+Network traffic anomaly detected.,4,Analyst_5
+Unauthorized access attempt detected.,1,Analyst_3
+File modified.,5,Analyst_2
+Unauthorized access attempt detected.,4,Analyst_3
+Log file rotated.,5,Analyst_3
+Log file rotated.,1,Analyst_1
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_3
+Network traffic anomaly detected.,1,Analyst_5
+Network traffic anomaly detected.,2,Analyst_3
+Network traffic anomaly detected.,3,Analyst_3
+Log file rotated.,3,Analyst_5
+Log file rotated.,1,Analyst_3
+Network traffic anomaly detected.,3,Analyst_4
+Unauthorized access attempt detected.,2,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,3,Analyst_2
+Log file rotated.,3,Analyst_3
+File modified.,5,Analyst_2
+Log file rotated.,1,Analyst_3
+Log file rotated.,1,Analyst_2
+File modified.,3,Analyst_3
+Listened ports status (netstat) changed (new port opened or closed).,4,Analyst_5
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_4
+File modified.,4,Analyst_5
+Log file rotated.,5,Analyst_4
+Log file rotated.,4,Analyst_4
+Log file rotated.,5,Analyst_4
+Listened ports status (netstat) changed (new port opened or closed).,5,Analyst_5
+File modified.,2,Analyst_3
+Unauthorized access attempt detected.,2,Analyst_4
+Log file rotated.,3,Analyst_4
+Log file rotated.,5,Analyst_2
+Network traffic anomaly detected.,4,Analyst_1
